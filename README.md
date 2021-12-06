@@ -1,3 +1,2 @@
-Kartoteka dodawania kontrahentów wykonania w języku C# z wykorzystaniem bazy danych SQL Server
-W środku pliku jest instrukcja.docx, która pokazuje jak skonfigurować aplikacje.
-Aplikacja zapisuje dodanych kontrahentów do bazy danych oraz dodatkowo moze je odczytywać jak i edytować
+File for adding execution contractors in C # with the use of SQL Server database There is a.docx instruction in the middle of the file, 
+which shows how to configure the applications. The application saves added contractors to the database and can additionally read and edit them.
